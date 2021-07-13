@@ -1,0 +1,22 @@
+              HOSPITAL MANAGEMENT SYSTEM
+ABSTRACT:-
+                     In this hospital management i am going to create a web-based 
+platform from where everyone can get service provided br the hospitals. 
+The main aim to create this is any business that does not have a software 
+application is missing one of the most powerful time saving tool available 
+to them. In these days most of the business organizations uses a desktop or 
+web-based or a mobile app for management of records. For this reason of 
+dependency on software application, we develop a desktop application for 
+hospital in which administartor and patient can get a convenient 
+environment for various services. Usually,the client uses MS Excel or 
+paper, and maintains their records, however it is not possible them to share
+the data from multiple system in multi user environment , there is a lot of 
+duplicate work, and chance to mistakes. When the record are changed they 
+need to update each and every excek file. This hotel management eliminates
+ most of these problems by updating or deleting by the admin an individual 
+records. Hence this hospital management increases an efficiency and 
+effectiveness, automation, user-friendly interface, information availability,
+ communication capacity , maintainance, cost reduction makes our system 
+smarter than before.
+
+
